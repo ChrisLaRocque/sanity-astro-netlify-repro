@@ -4,7 +4,7 @@ import { structureTool } from 'sanity/structure'
 export default defineConfig({
   name: 'default',
   title: 'Sanity Astro Netlify Repro',
-  projectId: 'vs47sslu',
+  projectId: 'd4pq1c3l',
   dataset: 'production',
   plugins: [structureTool()],
   schema: {
